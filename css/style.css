@@ -25,21 +25,6 @@ div.card-body{
     color: white;
 }
 
-#productos{
-    background: url(../multimedia/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    margin: 0; 
-}
-
-#productos::before{
-    content: "";
-    width: 100%0
-    MAEF
-}
-
 div.producto{
     background-color: black;
 }
@@ -197,14 +182,9 @@ img {
 
 /* FOOTER*/
 
-footer {
+footer{
     text-align: center;
     padding: 60px 0;
     color: #fff;
-    background: black; }
-  
-  footer img {
-    padding: 10px;
-    width: 60px;
-    height: 60px; }
-
+    background: black; 
+}

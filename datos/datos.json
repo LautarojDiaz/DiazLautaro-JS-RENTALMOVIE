@@ -3,56 +3,56 @@
     "id": 1,
     "modelo": "AVATAR 2",
     "precio": 1500,
-    "imagen": "multimedia/avatar.png",
+    "imagen": "multimedia/avatar.webp",
     "cantidad": 1
 },    
 {
     "id": 2,
     "modelo": "TOP GUN",
     "precio": 1400,
-    "imagen": "multimedia/topgun.jpg",
+    "imagen": "multimedia/topgun.webp",
     "cantidad": 1  
 },
 {
     "id": 3,
     "modelo": "BLACK ADAM",
     "precio": 1100,
-    "imagen": "multimedia/blackadam.jpg",
+    "imagen": "multimedia/blackadam.webp",
     "cantidad": 1
 },    
 {
     "id": 4,
     "modelo": "FORREST GUMP",
     "precio": 1200,
-    "imagen": "multimedia/gump.jpg",
+    "imagen": "multimedia/gump.webp",
     "cantidad": 1
 },
 {
     "id": 5,
     "modelo": "VOLVER AL FUTURO",
     "precio": 1200,
-    "imagen": "multimedia/volveralfuturo.jpg",
+    "imagen": "multimedia/volveralfuturo.webp",
     "cantidad": 1
 },
 {
     "id": 6,
     "modelo": "VENOM",
     "precio": 1100,
-    "imagen": "multimedia/venom.jpg",
+    "imagen": "multimedia/venom.webp",
     "cantidad": 1
 },
 {
     "id": 7,
     "modelo": "EL ULTIMO HOMBRE",
     "precio": 1200,
-    "imagen": "multimedia/ultimohombre.jpg",
+    "imagen": "multimedia/ultimohombre.webp",
     "cantidad": 1
 },
 {
     "id": 8,
     "modelo": "GIGANTES DE ACERO",
     "precio": 1100,
-    "imagen": "multimedia/ACERO.jpg",
+    "imagen": "multimedia/ACERO.webp",
     "cantidad": 1
 }
 ]
