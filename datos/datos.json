@@ -1,0 +1,58 @@
+[
+{
+    "id": 1,
+    "modelo": "AVATAR 2",
+    "precio": 1500,
+    "imagen": "multimedia/avatar.png",
+    "cantidad": 1
+},    
+{
+    "id": 2,
+    "modelo": "TOP GUN",
+    "precio": 1400,
+    "imagen": "multimedia/topgun.jpg",
+    "cantidad": 1  
+},
+{
+    "id": 3,
+    "modelo": "BLACK ADAM",
+    "precio": 1100,
+    "imagen": "multimedia/blackadam.jpg",
+    "cantidad": 1
+},    
+{
+    "id": 4,
+    "modelo": "FORREST GUMP",
+    "precio": 1200,
+    "imagen": "multimedia/gump.jpg",
+    "cantidad": 1
+},
+{
+    "id": 5,
+    "modelo": "VOLVER AL FUTURO",
+    "precio": 1200,
+    "imagen": "multimedia/volveralfuturo.jpg",
+    "cantidad": 1
+},
+{
+    "id": 6,
+    "modelo": "VENOM",
+    "precio": 1100,
+    "imagen": "multimedia/venom.jpg",
+    "cantidad": 1
+},
+{
+    "id": 7,
+    "modelo": "EL ULTIMO HOMBRE",
+    "precio": 1200,
+    "imagen": "multimedia/ultimohombre.jpg",
+    "cantidad": 1
+},
+{
+    "id": 8,
+    "modelo": "GIGANTES DE ACERO",
+    "precio": 1100,
+    "imagen": "multimedia/ACERO.jpg",
+    "cantidad": 1
+}
+]
